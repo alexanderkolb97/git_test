@@ -1,1 +1,10 @@
-let empty = null
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
+console.log(1)
