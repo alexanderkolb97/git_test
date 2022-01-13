@@ -1,0 +1,1 @@
+let fillingInVetka1 = 'Lorem ipsum'
